@@ -20,7 +20,10 @@
   "homepage": "https://github.com/nishimra-yurika/typescript-for-javascript-developers#readme",
   "devDependencies": {
     "ts-node": "^10.7.0",
+<<<<<<< HEAD
     "ts-node-dev": "^1.1.8",
+=======
+>>>>>>> 3800f769b6bc24ee4dc157e65cf66815d11b2d6c
     "typescript": "^4.6.3"
   }
 }
