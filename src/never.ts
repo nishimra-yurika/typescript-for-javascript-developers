@@ -12,4 +12,4 @@ try{
 }
 
 let foo: void  = undefined;
-let bar: never = undefined;
+let bar: never = error('only me!');
