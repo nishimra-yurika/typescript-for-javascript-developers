@@ -1,7 +1,6 @@
 import React,{useState,useContext} from "react"
 import { CREATE_EVENT,DELETE_ALL_EVENTS } from "../actions"
 import AppContext from "../contexts/AppContext"
-import App from "./App"
 
 const EventForm = () =>{
   const{ state,dispatch } = useContext(AppContext)
